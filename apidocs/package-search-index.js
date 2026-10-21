@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.squad93.pos"},{"l":"com.squad93.pos.db"},{"l":"com.squad93.pos.ui"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.squad93.pos"},{"l":"com.squad93.pos.db"},{"l":"com.squad93.pos.ui"}];updateSearchResults();
